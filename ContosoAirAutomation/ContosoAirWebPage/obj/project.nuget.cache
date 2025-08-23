@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "mZQJURM1s3A=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ascendion\\Desktop\\ContosoAir\\ContosoAirAutomation\\ContosoAirWebPage\\ContosoAirWebPage.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ascendion\\.nuget\\packages\\selenium.support\\4.34.0\\selenium.support.4.34.0.nupkg.sha512",
+    "C:\\Users\\Ascendion\\.nuget\\packages\\selenium.webdriver\\4.34.0\\selenium.webdriver.4.34.0.nupkg.sha512",
+    "C:\\Users\\Ascendion\\.nuget\\packages\\selenium.webdriver.chromedriver\\139.0.7258.6600\\selenium.webdriver.chromedriver.139.0.7258.6600.nupkg.sha512"
+  ],
+  "logs": []
+}

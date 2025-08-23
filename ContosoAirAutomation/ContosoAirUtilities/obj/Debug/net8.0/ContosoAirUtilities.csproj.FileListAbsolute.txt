@@ -1,0 +1,16 @@
+C:\Users\Ascendion\Desktop\ContosoAir\ContosoAirAutomation\ContosoAirUtilities\bin\Debug\net8.0\selenium-manager\linux\selenium-manager
+C:\Users\Ascendion\Desktop\ContosoAir\ContosoAirAutomation\ContosoAirUtilities\bin\Debug\net8.0\selenium-manager\macos\selenium-manager
+C:\Users\Ascendion\Desktop\ContosoAir\ContosoAirAutomation\ContosoAirUtilities\bin\Debug\net8.0\selenium-manager\windows\selenium-manager.exe
+C:\Users\Ascendion\Desktop\ContosoAir\ContosoAirAutomation\ContosoAirUtilities\bin\Debug\net8.0\ContosoAirUtilities.deps.json
+C:\Users\Ascendion\Desktop\ContosoAir\ContosoAirAutomation\ContosoAirUtilities\bin\Debug\net8.0\ContosoAirUtilities.dll
+C:\Users\Ascendion\Desktop\ContosoAir\ContosoAirAutomation\ContosoAirUtilities\bin\Debug\net8.0\ContosoAirUtilities.pdb
+C:\Users\Ascendion\Desktop\ContosoAir\ContosoAirAutomation\ContosoAirUtilities\obj\Debug\net8.0\ContosoAirUtilities.csproj.AssemblyReference.cache
+C:\Users\Ascendion\Desktop\ContosoAir\ContosoAirAutomation\ContosoAirUtilities\obj\Debug\net8.0\ContosoAirUtilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ascendion\Desktop\ContosoAir\ContosoAirAutomation\ContosoAirUtilities\obj\Debug\net8.0\ContosoAirUtilities.AssemblyInfoInputs.cache
+C:\Users\Ascendion\Desktop\ContosoAir\ContosoAirAutomation\ContosoAirUtilities\obj\Debug\net8.0\ContosoAirUtilities.AssemblyInfo.cs
+C:\Users\Ascendion\Desktop\ContosoAir\ContosoAirAutomation\ContosoAirUtilities\obj\Debug\net8.0\ContosoAirUtilities.csproj.CoreCompileInputs.cache
+C:\Users\Ascendion\Desktop\ContosoAir\ContosoAirAutomation\ContosoAirUtilities\obj\Debug\net8.0\ContosoAirUtilities.sourcelink.json
+C:\Users\Ascendion\Desktop\ContosoAir\ContosoAirAutomation\ContosoAirUtilities\obj\Debug\net8.0\ContosoAirUtilities.dll
+C:\Users\Ascendion\Desktop\ContosoAir\ContosoAirAutomation\ContosoAirUtilities\obj\Debug\net8.0\refint\ContosoAirUtilities.dll
+C:\Users\Ascendion\Desktop\ContosoAir\ContosoAirAutomation\ContosoAirUtilities\obj\Debug\net8.0\ContosoAirUtilities.pdb
+C:\Users\Ascendion\Desktop\ContosoAir\ContosoAirAutomation\ContosoAirUtilities\obj\Debug\net8.0\ref\ContosoAirUtilities.dll

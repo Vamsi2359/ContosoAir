@@ -1,0 +1,12 @@
+C:\Users\Ascendion\Desktop\ContosoAir\ContosoAirAutomation\ContosoAirOperation\bin\Debug\net8.0\ContosoAirOperation.deps.json
+C:\Users\Ascendion\Desktop\ContosoAir\ContosoAirAutomation\ContosoAirOperation\bin\Debug\net8.0\ContosoAirOperation.dll
+C:\Users\Ascendion\Desktop\ContosoAir\ContosoAirAutomation\ContosoAirOperation\bin\Debug\net8.0\ContosoAirOperation.pdb
+C:\Users\Ascendion\Desktop\ContosoAir\ContosoAirAutomation\ContosoAirOperation\obj\Debug\net8.0\ContosoAirOperation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ascendion\Desktop\ContosoAir\ContosoAirAutomation\ContosoAirOperation\obj\Debug\net8.0\ContosoAirOperation.AssemblyInfoInputs.cache
+C:\Users\Ascendion\Desktop\ContosoAir\ContosoAirAutomation\ContosoAirOperation\obj\Debug\net8.0\ContosoAirOperation.AssemblyInfo.cs
+C:\Users\Ascendion\Desktop\ContosoAir\ContosoAirAutomation\ContosoAirOperation\obj\Debug\net8.0\ContosoAirOperation.csproj.CoreCompileInputs.cache
+C:\Users\Ascendion\Desktop\ContosoAir\ContosoAirAutomation\ContosoAirOperation\obj\Debug\net8.0\ContosoAirOperation.sourcelink.json
+C:\Users\Ascendion\Desktop\ContosoAir\ContosoAirAutomation\ContosoAirOperation\obj\Debug\net8.0\ContosoAirOperation.dll
+C:\Users\Ascendion\Desktop\ContosoAir\ContosoAirAutomation\ContosoAirOperation\obj\Debug\net8.0\refint\ContosoAirOperation.dll
+C:\Users\Ascendion\Desktop\ContosoAir\ContosoAirAutomation\ContosoAirOperation\obj\Debug\net8.0\ContosoAirOperation.pdb
+C:\Users\Ascendion\Desktop\ContosoAir\ContosoAirAutomation\ContosoAirOperation\obj\Debug\net8.0\ref\ContosoAirOperation.dll
