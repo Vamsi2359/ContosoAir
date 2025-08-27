@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Ascendion\\Desktop\\ContosoAir\\ContosoAirAutomation\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{293FB4BE-173E-4B5A-B4A3-B6BBE966E371}|ContosoAirAppScenarios\\ContosoAirAppScenarios.csproj|c:\\users\\ascendion\\desktop\\contosoair\\contosoairautomation\\contosoairappscenarios\\homepagetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{293FB4BE-173E-4B5A-B4A3-B6BBE966E371}|ContosoAirAppScenarios\\ContosoAirAppScenarios.csproj|solutionrelative:contosoairappscenarios\\homepagetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DE845B7C-B193-42AC-A24E-FB7A3ABB4EC4}|ContosoAirUtilities\\ContosoAirUtilities.csproj|c:\\users\\ascendion\\desktop\\contosoair\\contosoairautomation\\contosoairutilities\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE845B7C-B193-42AC-A24E-FB7A3ABB4EC4}|ContosoAirUtilities\\ContosoAirUtilities.csproj|solutionrelative:contosoairutilities\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{766DAC75-58BB-4119-B883-6B290C887D62}|ContosoAirWebPage\\ContosoAirWebPage.csproj|c:\\users\\ascendion\\desktop\\contosoair\\contosoairautomation\\contosoairwebpage\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -15,8 +15,8 @@
       "RelativeMoniker": "D:0:0:{E7B5F60E-B64A-4B5F-84F0-EF29A0A43AA9}|ContosoAirOperation\\ContosoAirOperation.csproj|solutionrelative:contosoairoperation\\ihomepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DE845B7C-B193-42AC-A24E-FB7A3ABB4EC4}|ContosoAirUtilities\\ContosoAirUtilities.csproj|c:\\users\\ascendion\\desktop\\contosoair\\contosoairautomation\\contosoairutilities\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DE845B7C-B193-42AC-A24E-FB7A3ABB4EC4}|ContosoAirUtilities\\ContosoAirUtilities.csproj|solutionrelative:contosoairutilities\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{293FB4BE-173E-4B5A-B4A3-B6BBE966E371}|ContosoAirAppScenarios\\ContosoAirAppScenarios.csproj|c:\\users\\ascendion\\desktop\\contosoair\\contosoairautomation\\contosoairappscenarios\\homepagetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{293FB4BE-173E-4B5A-B4A3-B6BBE966E371}|ContosoAirAppScenarios\\ContosoAirAppScenarios.csproj|solutionrelative:contosoairappscenarios\\homepagetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,20 +26,23 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "HomePageTests.cs",
               "DocumentMoniker": "C:\\Users\\Ascendion\\Desktop\\ContosoAir\\ContosoAirAutomation\\ContosoAirAppScenarios\\HomePageTests.cs",
               "RelativeDocumentMoniker": "ContosoAirAppScenarios\\HomePageTests.cs",
               "ToolTip": "C:\\Users\\Ascendion\\Desktop\\ContosoAir\\ContosoAirAutomation\\ContosoAirAppScenarios\\HomePageTests.cs",
               "RelativeToolTip": "ContosoAirAppScenarios\\HomePageTests.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAUwBkAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-06T17:02:44.62Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-06T17:02:44.62Z"
             },
             {
               "$type": "Document",
@@ -49,7 +52,7 @@
               "RelativeDocumentMoniker": "ContosoAirWebPage\\HomePage.cs",
               "ToolTip": "C:\\Users\\Ascendion\\Desktop\\ContosoAir\\ContosoAirAutomation\\ContosoAirWebPage\\HomePage.cs",
               "RelativeToolTip": "ContosoAirWebPage\\HomePage.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAkwA0AAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-06T16:59:45.397Z"
             },
@@ -61,21 +64,22 @@
               "RelativeDocumentMoniker": "ContosoAirOperation\\IHomePage.cs",
               "ToolTip": "C:\\Users\\Ascendion\\Desktop\\ContosoAir\\ContosoAirAutomation\\ContosoAirOperation\\IHomePage.cs",
               "RelativeToolTip": "ContosoAirOperation\\IHomePage.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-06T16:57:53.996Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\Ascendion\\Desktop\\ContosoAir\\ContosoAirAutomation\\ContosoAirUtilities\\Class1.cs",
               "RelativeDocumentMoniker": "ContosoAirUtilities\\Class1.cs",
               "ToolTip": "C:\\Users\\Ascendion\\Desktop\\ContosoAir\\ContosoAirAutomation\\ContosoAirUtilities\\Class1.cs",
               "RelativeToolTip": "ContosoAirUtilities\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-06T16:48:58.657Z"
+              "WhenOpened": "2025-08-06T16:48:58.657Z",
+              "EditorCaption": ""
             }
           ]
         }
